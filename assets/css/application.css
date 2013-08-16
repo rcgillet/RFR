@@ -1,5 +1,14 @@
+body {
+	font-size: 18px;
+}
+
 h1,h2,h3 {
 	margin-top: 10px;
+}
+
+h1 {
+	font-size: 50px;
+	/*font-weight: normal;*/
 }
 
 /*  ---- Navbar ---- */
@@ -20,6 +29,7 @@ h1,h2,h3 {
 
 .navbar-nav>li>a {
 	color: #fff;
+	font-size: 14px;
 }
 
 /*  ---- Home Page main content ---- */
@@ -36,6 +46,7 @@ h1,h2,h3 {
 	margin-top: 10px;
 	background-color: rgba(255, 255, 255, .7);
 	border-radius: 0;
+	margin-bottom: 0;
 }
 
 .jumbotron img {
@@ -49,13 +60,24 @@ h1,h2,h3 {
 .well {
 	display: inline-block;
 	border-radius: 0;
+	border: none;
+	border-top: 1px solid rgba(0, 0, 0, .1);	
 	box-shadow: none;
-	margin: 20px 10px;
+	margin: 0 15px;
+	background-color: rgba(248, 248, 248, .7);	
+	
+}
+
+.newWell {
 	background-color: rgba(255, 255, 255, .7);
 }
 
+.well h1 {
+	margin-bottom: 30px;
+}
+
 .well p {
-	line-height: 2;
+	line-height: 1.5;
 	padding-top: 10px;
 }
 
