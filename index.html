@@ -1,21 +1,25 @@
-<html>
+<html lang="en">
 <head>
     <title>Race for Rescue</title>
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/bootswatch.min.css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/application.css" />
+
+    <link rel="stylesheet" href="assets/css/blueimp/blueimp-gallery.min.css">
 </head>
 <body>
-  <div class="navbar navbar-fixed-top">
+  <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
-      <a href="index.html" class="navbar-brand">Race for Rescue</a>
-      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <div class="nav-collapse collapse" id="navbar-main">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Race For Rescue</a>
+      </div>
+      <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
           <li><a href="index.html">Home</a></li>
           <li class="divider"></li>
@@ -23,20 +27,17 @@
           <li><a id="howPlay" href="index.html#howPlay">How to Play</a></li>
           <li><a id="howSponsor" href="index.html#howSponsor">How to Sponsor</a></li>          
           <li><a id="news" href="index.html#news">In the News</a></li>
-          <li><a href="photos.html">Photos</a></li>
+          <li><a href="photos.php">Photos</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
-        <ul class="nav navbar-nav pull-right">
-          <li><a href="http://www.facebook.com/RaceForRescue?fref=ts" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></li>
-        </ul>
-      </div>
+      </div><!--/.nav-collapse -->
     </div>
   </div>
   <div class="container pageContainer">
       <div class="col-lg-12">
         <div class="jumbotron">
-          <h1><img src="assets/img/Race_For_Rescue.png" alt="logo"/></h1>
-          <img src="assets/img/cathFed.png" alt="logo" id="cathFed"/>
+          <h1><img src="assets/img/Race_For_Rescue.png" alt="logo" class="img-thumbnail"/></h1>
+          <img src="assets/img/cathFed.png" alt="logo" id="cathFed" class="img-thumbnail"/>
           <p class="lead text-center">We have raised over $42,000 for Bay City's homeless since 2011, together we are making a difference!</p>
         </div>        
       </div>
@@ -99,8 +100,8 @@
         <img src="assets/img/sponsor.jpg" alt="logo" class="img-thumbnail"/>
       </div>
     </div>
-    <div class="well" name="news">  
-      <h1 class="text-center">In the News</h1>          
+    <div class="well newWell" name="news">  
+      <h1 class="text-center">In the News</h1>
       <div class="col-lg-12 text-center">
         <ul>
           <li>2012
@@ -127,10 +128,9 @@
         </ul>
       </div>
     </div>
-
     <div class="well">
       <div class="col-lg-6">
-        <img src="assets/img/GSRM.png" alt="logo" id="grsm"/>
+        <img src="assets/img/GSRM.png" alt="logo" id="grsm" class="img-thumbnail"/>
       </div>
       <div class="col-lg-6">
         <p>This event benefits the Good Samaritan Rescue Mission which provides a place of care for single men, women, mothers with children, and intact families. All clients receive three meals a day, a warm bed, a safe environment, free laundry facilities, clothing, hygiene products, and staff advocacy to assist in solving their homelessness. The goal of Mission staff is to demonstrate Christian care by providing a hand up out of trouble, not a  hand out.</p>
