@@ -4,7 +4,8 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/application.css" />
-    <link  href="http://fotorama.s3.amazonaws.com/4.3.0/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
+    <link  href="http://fotorama.s3.amazonaws.com/4.3.0/fotorama.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="assets/img/RFR.ico">
 </head>
 <body>
   <div class="navbar navbar-inverse navbar-fixed-top">
