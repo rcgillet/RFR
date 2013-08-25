@@ -26,11 +26,15 @@ h1 {
 	font-size: 14px;
 }
 
+.navbar-inverse .navbar-nav>li>a {
+	color: #C7C7C7;
+}
+
 /*  ---- Home Page main content ---- */
 
 .pageContainer {
 	background-color: rgba(255, 255, 255, .8);	
-	padding-top: 20px;
+	padding-top: 60px;
 }
 
 /*  ---- Jumbotron ---- */
@@ -81,8 +85,8 @@ h1 {
 	border-radius: 0;
 	margin-left: auto;
 	margin-right: auto;
-	display: block;
-	border: none;
+/*	display: block;
+*/	border: none;
 	background-color: transparent;
 }
 
@@ -92,4 +96,13 @@ ul > li {
 
 .howPlay p {
 	padding-top: 0; 
+}
+
+#sponsorLogos img {
+	max-height: 250px;
+	margin-bottom: 10px;
+}
+
+.fotorama {
+	margin: 0 5%;
 }
