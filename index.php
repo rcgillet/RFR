@@ -69,8 +69,8 @@
         <hr>
         <div class="med-img">
           <a href="http://www.bellsmith.net/home/" target="_blank"><img src="assets/img/sponsors/bellsmith.jpg"  class="img-thumbnail"/></a>
-          <a href="" target="_blank"><img src="assets/img/sponsors/Labadie.jpg"  class="img-thumbnail"/></a>
-          <img src="assets/img/sponsors/Wirt.jpg"  class="img-thumbnail"/>
+          <a href="http://www.labadiegm.com/" target="_blank"><img src="assets/img/sponsors/Labadie.jpg"  class="img-thumbnail"/></a>
+          <a href="http://www.mlive.com/news/bay-city/index.ssf/2013/05/bay_area_womens_center_gives_o.html" target="_blank"><img src="assets/img/sponsors/Wirt.jpg"  class="img-thumbnail"/></a>
         </div>
         <hr>
         <div class="sm-img">
