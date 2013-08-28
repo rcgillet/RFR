@@ -102,27 +102,16 @@
       </div>
       <div class="col-lg-8">
         <ul>
-          <li>2012
-            <ul>
-              <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2012/08/good_samaritan_rescue_missions.html" target="_blank">Good Samaritan Rescue Mission's Amazing Race for Rescue brings out the best in Bay City</a></li>
-            </ul>
-          </li>
-          <li>2011
-            <ul>
-              <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2011/07/competitors.html" target="_blank">Competitors and organizers gear up for second annual Amazing Race for Rescue</a></li>
-              <li><a href="http://www.mybaycity.com/scripts/P3_V2/P3V3-0200.cfm?P3_ArticleID=6022" target="_blank">The Amazing Race for Rescue</a></li>
-              <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2011/08/tickets_available_for_amazing.html" target="_blank">Tickets available for Amazing Race for Rescue post-race party</a></li>
-              <li><a href="http://photos.mlive.com/baycitytimes/2011/08/2011_amazing_race_for_rescue_9.html" target="_blank">Photos from The Bay City Times</a></li>
-              <li><a href="http://www.mybaycity.com/scripts/P3_V2/P3V3-0200.cfm?P3_ArticleID=6206" target="_blank">The Amazing Race For Rescue Held 2nd Annual Fundraiser</a></li>
-              <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2011/08/female_quartet_captures_1000_g.html" target="_blank">Female quartet captures $1,000 grand prize in Bay City's Amazing Race for Rescue</a></li>
-            </ul>
-          </li>
-          <li>2010
-            <ul>
-              <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2010/09/bay_county_amazing_race_regist.html" target="_blank">Bay County Amazing Race registration attracts large turnout</a></li>
-              <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2010/10/team_conquers_challenges_to_se.html" target="_blank">Team conquers challenges to secure Bay City's Amazing Race for Rescue victory</a></li>
-            </ul>
-          </li>
+          <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2012/08/good_samaritan_rescue_missions.html" target="_blank">Good Samaritan Rescue Mission's Amazing Race for Rescue brings out the best in Bay City</a></li>
+          <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2011/07/competitors.html" target="_blank">Competitors and organizers gear up for second annual Amazing Race for Rescue</a></li>
+          <li><a href="http://www.mybaycity.com/scripts/P3_V2/P3V3-0200.cfm?P3_ArticleID=6022" target="_blank">The Amazing Race for Rescue</a></li>
+          <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2011/08/tickets_available_for_amazing.html" target="_blank">Tickets available for Amazing Race for Rescue post-race party</a></li>
+          <li><a href="http://photos.mlive.com/baycitytimes/2011/08/2011_amazing_race_for_rescue_9.html" target="_blank">Photos from The Bay City Times</a></li>
+          <li><a href="http://www.mybaycity.com/scripts/P3_V2/P3V3-0200.cfm?P3_ArticleID=6206" target="_blank">The Amazing Race For Rescue Held 2nd Annual Fundraiser</a></li>
+          <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2011/08/female_quartet_captures_1000_g.html" target="_blank">Female quartet captures $1,000 grand prize in Bay City's Amazing Race for Rescue</a></li>
+          <li><a href="http://videos.mlive.com/bctimes/2011/08/the_amazing_race_for_rescue.html" target="_blank">Video from The Bay City Times</a></li>
+          <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2010/09/bay_county_amazing_race_regist.html" target="_blank">Bay County Amazing Race registration attracts large turnout</a></li>
+          <li><a href="http://www.mlive.com/news/bay-city/index.ssf/2010/10/team_conquers_challenges_to_se.html" target="_blank">Team conquers challenges to secure Bay City's Amazing Race for Rescue victory</a></li>
         </ul>
       </div>
     </div>
