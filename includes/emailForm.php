@@ -3,7 +3,7 @@
 if(isset($_POST['email'])) {
      
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "jessicalegner@gmail.com";
+    $email_to = "rescuerace@gmail.com";
     $email_subject = "Contact comment/question from website";
      
      
@@ -62,12 +62,7 @@ $headers = 'From: '.$email_from."\r\n".
 'Reply-To: '.$email_from."\r\n" .
 'X-Mailer: PHP/' . phpversion();
 @mail($email_to, $email_subject, $email_message, $headers);  
-?>
  
-<!-- include your own success html here -->
- 
-Thank you for contacting us. We will be in touch with you very soon.
- 
-<?php
+header('Location: ../index.php');
 }
 ?>

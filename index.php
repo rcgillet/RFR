@@ -79,7 +79,7 @@
         </div>
         <hr>
         <div class="xsm-img">
-          <a href="http://www.mclaren.org/bayregion/BayRegion.aspx" target="_blank"><img src="assets/img/sponsors/BAY_headerlogo.jpg"  class="img-thumbnail"/></a>
+          <a href="http://mclaren.org/bayregion/RehabilitationandSportsMedicinebay.aspx" target="_blank"><img src="assets/img/sponsors/MBRRS.jpg"  class="img-thumbnail"/></a>
           <a href="http://www.tricityicehawks.com/" target="_blank"><img src="assets/img/sponsors/icehawks.jpg"  class="img-thumbnail"/></a>
           <a href="http://www.prsmichigan.com/" target="_blank"><img src="assets/img/sponsors/Paramount.jpg"  class="img-thumbnail"/></a>
           <a href="http://www.thethumbprintbaycity.com/" target="_blank"><img src="assets/img/sponsors/thumb-print-logo.jpg"  class="img-thumbnail"/></a>
