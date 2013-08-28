@@ -62,14 +62,28 @@
       <h1 class="text-center">Sponsors</h1>
       <div class="col-lg-12 text-center" id="sponsorLogos">
         <a href="http://www.cathfcu.com/" target="_blank"><img src="assets/img/sponsors/cathFedLong.jpg"  class="img-thumbnail"/></a>
-        <a href="http://www.baycitycountryclub.com/" target="_blank"><img src="assets/img/sponsors/bccc.jpg"  class="img-thumbnail"/></a>
-        <a href="http://www.bellsmith.net/home/" target="_blank"><img src="assets/img/sponsors/bellsmith.jpg"  class="img-thumbnail"/></a>
-        <a href="http://www.bayvalleycc.org/" target="_blank"><img src="assets/img/sponsors/bvcc.jpg"  class="img-thumbnail"/></a>
-        <a href="http://www.toddrathkedds.com/" target="_blank"><img src="assets/img/sponsors/Rathke.png"  class="img-thumbnail"/></a>
-        <a href="http://www.mclaren.org/bayregion/BayRegion.aspx" target="_blank"><img src="assets/img/sponsors/BAY_headerlogo.jpg"  class="img-thumbnail"/></a>
-        <a href="http://www.tricityicehawks.com/" target="_blank"><img src="assets/img/sponsors/icehawks.jpg"  class="img-thumbnail"/></a>
-        <a href="http://www.prsmichigan.com/" target="_blank"><img src="assets/img/sponsors/Paramount.jpg"  class="img-thumbnail"/></a>
-        <a href="http://www.thethumbprintbaycity.com/" target="_blank"><img src="assets/img/sponsors/thumb-print-logo.jpg"  class="img-thumbnail"/></a>
+        <hr>
+        <div class="lg-img">
+          <a href="http://www.baycitycountryclub.com/" target="_blank"><img src="assets/img/sponsors/bccc.jpg"  class="img-thumbnail"/></a>
+        </div>
+        <hr>
+        <div class="med-img">
+          <a href="http://www.bellsmith.net/home/" target="_blank"><img src="assets/img/sponsors/bellsmith.jpg"  class="img-thumbnail"/></a>
+          <a href="" target="_blank"><img src="assets/img/sponsors/Labadie.jpg"  class="img-thumbnail"/></a>
+          <img src="assets/img/sponsors/Wirt.jpg"  class="img-thumbnail"/>
+        </div>
+        <hr>
+        <div class="sm-img">
+          <a href="http://www.bayvalleycc.org/" target="_blank"><img src="assets/img/sponsors/bvcc.jpg"  class="img-thumbnail"/></a>
+          <a href="http://www.toddrathkedds.com/" target="_blank"><img src="assets/img/sponsors/Rathke.png"  class="img-thumbnail"/></a>
+        </div>
+        <hr>
+        <div class="xsm-img">
+          <a href="http://www.mclaren.org/bayregion/BayRegion.aspx" target="_blank"><img src="assets/img/sponsors/BAY_headerlogo.jpg"  class="img-thumbnail"/></a>
+          <a href="http://www.tricityicehawks.com/" target="_blank"><img src="assets/img/sponsors/icehawks.jpg"  class="img-thumbnail"/></a>
+          <a href="http://www.prsmichigan.com/" target="_blank"><img src="assets/img/sponsors/Paramount.jpg"  class="img-thumbnail"/></a>
+          <a href="http://www.thethumbprintbaycity.com/" target="_blank"><img src="assets/img/sponsors/thumb-print-logo.jpg"  class="img-thumbnail"/></a>
+        </div>
       </div>
     </div>
     <div class="well newWell" name="howSponsor">      

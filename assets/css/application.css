@@ -99,10 +99,29 @@ ul > li {
 }
 
 #sponsorLogos img {
-	max-height: 250px;
 	margin-bottom: 10px;
 }
 
 .fotorama {
 	margin: 0 5%;
+}
+
+.fotorama img {
+	max-height: 300px;
+}
+
+.xsm-img img{
+	max-height: 110px;
+}
+
+.sm-img img {
+	max-height: 160px;
+}
+
+.med-img img {
+	max-height: 205px;
+}
+
+.lg-img img {
+	max-height: 250px;
 }
